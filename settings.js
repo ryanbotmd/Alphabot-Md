@@ -25,12 +25,12 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "BotzRam - MD" //namabot kalian
-global.ownername= "•𝙍𝙖𝙢𝙖𝙖` 𝙆𝙚𝙩𝙘𝙝𝙚" //nama kalian
+global.botname = "Stefanus Ryan BOT" //namabot kalian
+global.ownername= "•Stefanus Ryan BAMS" //nama kalian
 global.myweb ="https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas asal jan hapus
 global.myweb2 = "https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.email = "stefanusdariusryan@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285791220179'] //premium user
@@ -40,8 +40,8 @@ global.ownernomerr = "+6285791220179" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© BotzRam' //sticker wm ubah
-global.author = 'Di Buat Oleh Ramaa' //sticker wm ganti nama kalian
+global.packname = '©Stefanus Ryan BOT' //sticker wm ubah
+global.author = '@stefanusryan_bams' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
